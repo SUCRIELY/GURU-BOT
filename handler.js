@@ -576,7 +576,7 @@ export async function participantsUpdate({
                         contextInfo: {
                         mentionedJid: [user],
                         externalAdReply: {
-                        title: "TMTBOT",
+                        title: "Gojo-MD",
                         body: "welcome to Group",
                         thumbnailUrl: welcomeApiUrl,
                         sourceUrl: 'https://chat.whatsapp.com/LHWGPUZkUKmLbGFXMXxRJO',
@@ -629,7 +629,7 @@ export async function participantsUpdate({
                         contextInfo: {
                         mentionedJid: [user],
                         externalAdReply: {
-                        title: "TMTBOT",
+                        title: "Gojo-MD",
                         body: "Goodbye from  Group",
                         thumbnailUrl: leaveApiUrl,
                         sourceUrl: 'https://chat.whatsapp.com/LHWGPUZkUKmLbGFXMXxRJO',
