@@ -7,16 +7,16 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['258846089732', 'Sucriely', true],
-  ['2348058068041', 'Rise', true], 
+  ['2347033086646', 'Devil Knight', true],
+  ['2349130961572', 'Rise', true], 
   [''] 
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['258846089732','2348058068041'] 
-global.prems = ['258846089732', '2348058068041', '919398758484']
-global.allowed = ['258846089732', '2348058068041', '19152999993']
+global.mods = ['2347033086646','2349130961572'] 
+global.prems = ['2347033086646', '2349130961572', '2348058068041']
+global.allowed = ['2347033086646', '2349130961572', '2348058068041']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -50,9 +50,9 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'Zinna'
+global.botname = 'Knight Bot'
 global.premium = 'true'
-global.packname = 'Zinna' 
+global.packname = 'Knight Bot' 
 global.author = 'Rise' 
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/juniorwinter6?igsh=MWFqOHh3NmY1c3N6OQ==\n' 
